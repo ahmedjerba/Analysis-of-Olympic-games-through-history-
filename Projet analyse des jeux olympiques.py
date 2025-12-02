@@ -170,4 +170,5 @@ def main():
     analyze_gymnastics_physical_traits(total)
 
 if __name__ == "__main__":
+
     main()
